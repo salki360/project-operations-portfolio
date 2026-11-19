@@ -6,7 +6,7 @@
 
 ## Three-minute walkthrough
 
-1. **Outcome and assumptions:** explain the fictional storefront, 84-SKU scope, 30-day window and fixed $18,500 modeled budget.
+1. **Outcome and assumptions:** explain the fictional storefront, 84-SKU scope, 30-day window and fixed $20,000 modeled budget.
 2. **Control system:** show how owner, start/finish, dependency, status and acceptance evidence connect in the master tracker and timeline.
 3. **Decision visibility:** show weekly checkpoints, budget variance, risk response and linked issues. Explain how changes would be assessed before baselines changed.
 4. **Closeout:** point to UAT, readiness, handover and lessons in the dossier.
@@ -18,7 +18,7 @@
 
 **How did you calculate progress?** The scenario uses task completion percentages rolled up in the workbook. The weekly checkpoints are illustrative snapshots.
 
-**Why did the budget finish below plan?** The scenario records $17,800 against $18,500, leaving $700 favorable variance. Category-level values are illustrative and the contingency reserve was unused.
+**Why did the budget finish below plan?** The scenario records $19,650 against $20,000, leaving $350 favorable variance. Category-level values are illustrative and the contingency reserve was unused.
 
 **What would you improve next?** Add an explicitly documented baseline approval log, acceptance evidence links, and a post-launch monitoring dashboard if this were a real delivery.
 
